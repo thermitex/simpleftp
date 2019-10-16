@@ -7,7 +7,7 @@
 #include <arpa/inet.h> 
 #include <netinet/in.h>
 #include <netdb.h>
-#include "common.h"
+#include "transmit.h"
 
 int main(int argc, char *argv[]) {
     if (argc != 2) {

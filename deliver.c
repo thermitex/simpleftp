@@ -9,7 +9,7 @@
 #include <netinet/in.h>
 #include <netdb.h>
 #include <math.h>
-#include "common.h"
+#include "transmit.h"
 
 int main(int argc, char *argv[]) {
 	if (argc != 3) {
